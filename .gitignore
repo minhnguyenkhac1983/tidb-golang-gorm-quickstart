@@ -13,3 +13,4 @@ stylesheet.css
 **/*.iml
 
 .env
+*.exe
